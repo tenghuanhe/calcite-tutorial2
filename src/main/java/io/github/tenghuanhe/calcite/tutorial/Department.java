@@ -1,4 +1,4 @@
-package jp.co.worksap.calcite.tutorial;
+package io.github.tenghuanhe.calcite.tutorial;
 
 /**
  * Created by tenghuanhe on 17-4-11.
